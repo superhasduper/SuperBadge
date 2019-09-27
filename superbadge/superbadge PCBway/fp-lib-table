@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name badge)(type KiCad)(uri /Volumes/jarvis/HECTOR/pc/boards/badge)(options "")(descr ""))
+)
